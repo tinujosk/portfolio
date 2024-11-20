@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51d524d4.css",
-    "main.js": "/static/js/main.28835f37.js",
+    "main.css": "/static/css/main.165b2562.css",
+    "main.js": "/static/js/main.6c8b1132.js",
     "static/media/mgu.png": "/static/media/mgu.92b2ba1285297938f003.png",
     "static/media/cognizant.jpg": "/static/media/cognizant.d7a8a6dd27fa8490bccb.jpg",
     "static/media/aws1.png": "/static/media/aws1.a6b6da9b1c9c6385d3ad.png",
@@ -15,11 +15,11 @@
     "static/media/tailwindcssIcon.svg": "/static/media/tailwindcssIcon.79614a5f61617ba49a0891494521226b.svg",
     "index.html": "/index.html",
     "static/media/framermotionIcon.svg": "/static/media/framermotionIcon.f4350288d55fe669f56f65de3832081f.svg",
-    "main.51d524d4.css.map": "/static/css/main.51d524d4.css.map",
-    "main.28835f37.js.map": "/static/js/main.28835f37.js.map"
+    "main.165b2562.css.map": "/static/css/main.165b2562.css.map",
+    "main.6c8b1132.js.map": "/static/js/main.6c8b1132.js.map"
   },
   "entrypoints": [
-    "static/css/main.51d524d4.css",
-    "static/js/main.28835f37.js"
+    "static/css/main.165b2562.css",
+    "static/js/main.6c8b1132.js"
   ]
 }
