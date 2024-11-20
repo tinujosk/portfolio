@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.afccd47b.css",
-    "main.js": "/static/js/main.3c4e5cff.js",
+    "main.js": "/static/js/main.dc3606d9.js",
     "static/media/mgu.png": "/static/media/mgu.92b2ba1285297938f003.png",
     "static/media/cognizant.jpg": "/static/media/cognizant.d7a8a6dd27fa8490bccb.jpg",
     "static/media/aws1.png": "/static/media/aws1.a6b6da9b1c9c6385d3ad.png",
@@ -16,10 +16,10 @@
     "index.html": "/index.html",
     "static/media/framermotionIcon.svg": "/static/media/framermotionIcon.f4350288d55fe669f56f65de3832081f.svg",
     "main.afccd47b.css.map": "/static/css/main.afccd47b.css.map",
-    "main.3c4e5cff.js.map": "/static/js/main.3c4e5cff.js.map"
+    "main.dc3606d9.js.map": "/static/js/main.dc3606d9.js.map"
   },
   "entrypoints": [
     "static/css/main.afccd47b.css",
-    "static/js/main.3c4e5cff.js"
+    "static/js/main.dc3606d9.js"
   ]
 }
