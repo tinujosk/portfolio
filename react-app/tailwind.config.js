@@ -16,6 +16,10 @@ module.exports = {
         typing: 'typing 3.5s steps(30, end) forwards',
         blink: 'blink 1s infinite step-end',
       },
+      width: {
+        lg: '70%',
+        '5/8': '55%',
+      },
     },
   },
   plugins: [],
